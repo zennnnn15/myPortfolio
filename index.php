@@ -48,7 +48,7 @@
     // typing text animation script
     var typed = new Typed(".typing", {
       strings: [
-        "Tagaayos ng Washing Machine",
+        "BSIT Student",
         "Full Stack Developer",
         "Lifelong Learner",
         "Web Designer",
@@ -61,7 +61,7 @@
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "Tagaayos ng Washing Machine",
+        "BSIT Student",
         "Full Stack Developer",
         "Lifelong Learner",
         "Web Designer",
@@ -125,7 +125,7 @@
       <div class="text-1">Hello, my name is</div>
       <div class="text-2"><span>K</span>yzen <span>C</span>ampos</div>
       <div class="text-3">And I'm a <span class="typing"></span></div>
-      <a href="#" target="_blank"><i class="fab fa-github"></i> Github</a>
+      <a href="https://github.com/zennnnn15" target="_blank"><i class="fab fa-github"></i> Github</a>
     </div>
   </div>
 </section>
@@ -136,7 +136,7 @@
     <h2 class="title">About me</h2>
     <div class="about-content">
       <div class="column left">
-        <img src="https://scontent.fcrk3-2.fna.fbcdn.net/v/t39.30808-6/287487728_2023277644532682_3438871587778557405_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeF6VBUUf06bnXFK9d3RAIS4rEwJ8Scoi36sTAnxJyiLfjfV6g96ES-lg4btE-5n9KVWedxe7E2jYfKpFWL-l6rT&_nc_ohc=pG-WFj4B3vsAX8DdV-c&_nc_zt=23&_nc_ht=scontent.fcrk3-2.fna&oh=00_AfBhH3k8_-jo7n-9YY1LoWd-Kd4hW0O4ksnCgJRrQdQWJw&oe=63FCAE8F" alt="" />
+        <img src="https://scontent.fmnl3-4.fna.fbcdn.net/v/t39.30808-6/335139857_759657652183733_4685370133813440478_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGLanVDS2f2OU9Qn0V88J55dQHtzk99z311Ae3OT33PfQC3WfrpQpXNW0wiE1iYilGMjII_kMoQ_LzdL_DnpxMT&_nc_ohc=VnK8HE3fKRwAX-kfbhS&_nc_ht=scontent.fmnl3-4.fna&oh=00_AfCUzUkdpgmsYAP5Z4kEzl3YpP2isZsR-LxSHRQjCQAdKQ&oe=641BFDFF" alt="" />
       </div>
       <div class="column right">
         <div class="text">
@@ -160,6 +160,7 @@
         <div class="box">
           <i class="fas fa-code"></i>
           <div class="text">Web Development</div>
+          <img style="width: 200px;" src="weblogo.png" alt="">
           <p>
             Using Front-End libraries, I build fast, interactive websites. I
             use Node JS, Laravel and React at backend side.
@@ -170,6 +171,7 @@
         <div class="box">
           <i class="fas fa-industry"></i>
           <div class="text">Design Prototyping</div>
+          <img style="width: 250px;" src="des.png" alt="">
           <p>
             I have a knowledge in creating working prototypes via Figma and Adobe Photoshop.
           </p>
@@ -179,6 +181,7 @@
         <div class="box">
           <i class="fas fa-chart-bar"></i>
           <div class="text">Andriod Development</div>
+          <img style="width: 250px;" src="flu.png" alt="">
           <p>
             I am currently studying Andriod Development via Google Flutter.
           </p>
@@ -198,7 +201,7 @@
         <p>
           I am currently studying Bachelor of Science in Information Technology at Pangasinan State University Urdaneta Campus.
         </p>
-        <a href="#" target="_blank">LinkedIn<i class="fab fa-free-code-camp"></i></a>
+        <a href="https://www.linkedin.com/in/kyzen-campos-5b06b2260/" target="_blank">LinkedIn<i class="fab fa-free-code-camp"></i></a>
       </div>
       <div class="column right">
         <div class="bars">
